@@ -19,7 +19,7 @@
         pet projects.</p>
 </div>
 
-<h2> I have extensive experience with:</h2>
+<h2> My love experience with:</h2>
 <div align="left">
     <img alt="Static Badge"
         src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=tsnode&logoColor=046f87&labelColor=fcbe7e&color=046f87">
@@ -54,7 +54,7 @@
     <img alt="Static Badge"
         src="https://img.shields.io/badge/elk-blue?style=for-the-badge&logo=elasticsearch&logoColor=046f87&labelColor=fcbe7e&color=046f87">
 </div>
-<h2>Have extensive experience in CI/CD in:</h2>
+<h2>Have experience in CI/CD in:</h2>
 <div align="center">
     <img alt="Static Badge"
         src="https://img.shields.io/badge/gitlab-blue?style=for-the-badge&logo=gitlab&logoColor=046f87&labelColor=fcbe7e&color=046f87">
