@@ -22,9 +22,9 @@
 <h2> My love experience with:</h2>
 <div align="left">
     <img alt="Static Badge"
-        src="https://img.shields.io/badge/go-blue?style=for-the-badge&logo=elasticsearch&logoColor=046f87&labelColor=fcbe7e&color=046f87">
+        src="https://img.shields.io/badge/go-blue?style=for-the-badge&logo=go&logoColor=046f87&labelColor=fcbe7e&color=046f87">
     <img alt="Static Badge"
-        src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=elasticsearch&logoColor=046f87&labelColor=fcbe7e&color=046f87">
+        src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=046f87&labelColor=fcbe7e&color=046f87">
     <img alt="Static Badge"
         src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=tsnode&logoColor=046f87&labelColor=fcbe7e&color=046f87">
     <img alt="Static Badge"
